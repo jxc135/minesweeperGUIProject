@@ -2,6 +2,10 @@
 
 An application where users can play minesweeper. It has features such as changing difficulty and grid colour. It was made using Java and JavaFX. This was developed as part of my dissertation, following the waterfall methodology, going through requirements to testing. Also, it applies the model-view-controller design pattern.  
 
+
+![Imgur](https://i.imgur.com/S7KqKaj.png)  ![Imgur](https://i.imgur.com/9aARXAk.png)
+
+
 ## Installation
 
 1. Requires JDK 11+ or JRE 11+ beforehand. (Note: Size of jar file is 9.1 mb)
